@@ -3,6 +3,12 @@
 =========
 
 ======
+v0.8.1
+======
+* Adds a bugfix from https://github.com/ryan-roemer/sphinx-bootstrap-theme/pull/213
+  to re-enable searching.
+
+======
 v0.8.0
 ======
 * Upgrade Bootstrap and Bootswatch to v3.4.1. (`@vedranmiletic`_)
